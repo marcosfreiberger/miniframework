@@ -1,1 +1,3 @@
 # miniframework
+
+Utilizando arquitetura MVC.
